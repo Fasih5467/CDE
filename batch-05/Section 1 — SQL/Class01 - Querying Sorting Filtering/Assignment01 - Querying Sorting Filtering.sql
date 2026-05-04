@@ -16,6 +16,8 @@
 -- Write your query below:
 
 
+
+
 -- ============================================================
 --  Question 2 — ORDER BY (Multiple Columns)
 --  Fetch the product_id, product_name, model_year, and
