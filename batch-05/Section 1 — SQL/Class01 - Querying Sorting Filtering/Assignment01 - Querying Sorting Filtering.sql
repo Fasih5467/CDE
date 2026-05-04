@@ -46,7 +46,6 @@
 -- Part b:
 
 
--- Total rows = 321 → 5% = 16.05 → rounds up to 17 rows returned
 
 
 -- ============================================================
@@ -66,7 +65,6 @@
 
 
 -- Page 3:
-
 
 
 
@@ -93,7 +91,6 @@
 
 
 
-
 -- ============================================================
 --  Question 6 — Logical Operators (AND / OR)
 --  Write a single query that returns the product_id,
@@ -106,4 +103,3 @@
 -- ============================================================
 
 -- Write your query below:
-  
